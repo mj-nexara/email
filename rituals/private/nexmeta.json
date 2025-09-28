@@ -1,0 +1,9 @@
+{
+  "ritual": "Private Email",
+  "guardian": "MJ Ahmad",
+  "date": "2025-09-29",
+  "ipfsCID": "QmXyz123abc456def789ghi012jkl345mno678",
+  "anchoredFrom": "E:\\Nexara\\email\\changelog\\email-log-20250929.txt",
+  "linkedTo": ["GitBook", "Microsoft Graph", "PowerShell"],
+  "notes": "Anchored message to trusted guardian"
+}
